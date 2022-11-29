@@ -1,9 +1,23 @@
 
-# Título del Proyecto
+# Documentos
 
-_Acá va un párrafo que describa lo que es el proyecto_
+Dentro de esta carpeta se encuentran los documentos importantes vínculados a esta tesis
+```
+Tesis Escrita
+```
+```
+Protocolo
+```
+```
+Imagenes y Videos
+```
+```
+Articulo Cientifico
+```
 
-## Comenzando 🚀
+
+
+## Tesis Escrita 🚀
 
 _Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
 
