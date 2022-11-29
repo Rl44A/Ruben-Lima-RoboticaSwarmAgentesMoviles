@@ -17,17 +17,15 @@ Articulo Cientifico
 
 
 
-## Tesis Escrita 🚀
+## Tesis Escrita 📋
 
-_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
-
-Mira **Deployment** para conocer como desplegar el proyecto.
+En esta carpeta se encuentra la tesis escrita creada para este trabajo de graduación, dependiendo de los cambios necesarios se irá actualizando hasta llegar al aprobado y presentado final.
 
 
-### Pre-requisitos 📋
+### Protocolo 📋
 
-_Que cosas necesitas para instalar el software y como instalarlas_
+Este es el protocolo presentado para obtener la aprobación en el seguimiento del trabajo de graduación
 
-```
-Da un ejemplo
-```
+
+
+
