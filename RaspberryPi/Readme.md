@@ -1,5 +1,5 @@
 
-En el trabajo de graduación se utlizaron 2 plataformas diferentes de RaspberryPi, se utilizó 1 RaspberryPi Zero W y una RaspberryPi 3B+. Estas plataformas tienen el beneficio de actuar bajo los mismos comandos GPIO por lo que los codigos son intercambiables y se desarrollan para el uso en ambas. 
+En el trabajo de graduación se utlizaron 2 plataformas diferentes de RaspberryPi, se utilizó 1 RaspberryPi Zero W y una RaspberryPi 3B+. Estas plataformas tienen el beneficio de actuar bajo los mismos comandos GPIO por lo que los codigos son intercambiables y se desarrollan para el uso en ambas. Sin embargo se tienen que tener en cuenta las diferencias en el poder de procesamiento y de uso de librerias externas desarrolladas para una arquitectura en específico. 
 
 Para lograr acceder a estas plataformas se necesita guardar la imagen de un archivo en una SD y luego introducirla a la Raspi utilizada, para poder hacerlo de manera correcta se recomienda ver este video hecho por RaspberryPi  [Raspberry Pi Imager](https://www.youtube.com/watch?v=ntaXWS8Lk34 "How to use Raspberry Pi Imager "). 
 
