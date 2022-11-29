@@ -6,7 +6,7 @@ Dentro de esta carpeta estan las piezas utilizadas en el Bytebot3B, las cuales e
 
 ## Diseños 3D 🔧
 
-Este es el protocolo presentado para obtener la aprobación en el seguimiento del trabajo de graduación.
+Dentro de esta carpeta estan las piezas impresas en 3D utilizadas en el Bytebot3B.
 
 ## Compradas 🔧
 
