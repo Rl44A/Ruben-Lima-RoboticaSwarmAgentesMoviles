@@ -1,5 +1,4 @@
-# Implementación y validación de algoritmos de robótica de
-enjambre en plataformas móviles en la nueva mesa de pruebas
+# Implementación y validación de algoritmos de robótica de enjambre en plataformas móviles en la nueva mesa de pruebas
 del laboratorio de robótica de la UVG
 
 _Acá va un párrafo que describa lo que es el proyecto_
