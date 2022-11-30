@@ -44,7 +44,7 @@ _Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para 
 
 ### Documentos📋
 
-## RaspberryPi⚙️
+### RaspberryPi⚙️
 
 _Explica como ejecutar las pruebas automatizadas para este sistema_
 
@@ -57,7 +57,7 @@ Da un ejemplo
 ```
 
 
-## Construido🛠️
+### Construido🛠️
 
 _Menciona las herramientas que utilizaste para crear tu proyecto_
 
