@@ -7,13 +7,13 @@ En este proyecto se realiza la validación del PSO, un algoritmo de robotica de 
 
 1. [Prerequisitos](#Pre-rrequisitos)
 2. [Antecedentes](#Antecedentes)
-3. [codigos](#Código)
+3. [codigos](#Codigos)
 4. [Documentos](#Documentos)
 5. [Uso Raspberry Pi](#RaspberryPi)
 6. [Piezas](#Piezas)
 
 
-### Pre-requisitos 📋
+### Pre-rrequisitos 📋
 
 _Que cosas necesitas para instalar el software y como instalarlas_
 
@@ -23,7 +23,7 @@ Da un ejemplo
 
 ### Antecedentes📋
 
-### Codigo  🔧
+### Codigos  🔧
 
 _Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener un entorno de desarrollo ejecutandose_
 
@@ -41,9 +41,9 @@ hasta finalizar
 
 _Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
 
-### Documentos 📋
+### Documentos📋
 
-## RaspberryPi ⚙️
+## RaspberryPi⚙️
 
 _Explica como ejecutar las pruebas automatizadas para este sistema_
 
