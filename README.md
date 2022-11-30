@@ -6,62 +6,71 @@ En este proyecto se realiza la validación del PSO, un algoritmo de robotica de 
 
 # Indice
 1. [Pre-rrequisitos](#Pre-rrequisitos)
-2. [Antecedentes](#Antecedentes)
-3. [codigos](#codigos)
-4. [Documentos](#Documentos)
-5. [RaspberryPi](#RaspberryPi)
-6. [Piezas](#Piezas)
-7. [Construido](#Construido)
+2. [codigos](#codigos)
+3. [Documentos](#Documentos)
+4. [RaspberryPi](#RaspberryPi)
+5. [Piezas](#Piezas)
+6. [Construido](#Construido)
 
 
 ### Pre-rrequisitos📋
 
-_Que cosas necesitas para instalar el software y como instalarlas_
+Para poder correr los programas se necesita instalar algunos componentes 
+
+Libreria ZMQ en la RaspberryPi
 
 ```
-Da un ejemplo
+sudo apt-get install libtool pkg-config build-essential autoconf automake
 ```
-
-### Antecedentes📋
+Instalamos libsodium
+```
+wget https://github.com/jedisct1/libsodium/releases/download/1.0.3/libsodium-1.0.3.tar.gz
+tar -zxvf libsodium-1.0.3.tar.gz
+cd libsodium-1.0.3/
+./configure
+make
+sudo make install
+```
+Instalamos ZMQ
+```
+wget https://github.com/zeromq/libzmq/releases/download/v4.3.2/zeromq-4.3.2.tar.gz
+tar -zxvf zeromq-4.3.2.tar.gz
+cd zeromq-4.3.2/
+./configure
+make
+sudo make install
+sudo ldconfig
+```
+Luego para Python3 tenemos que instalarlo 
+```
+sudo apt-get install python3-dev python3-pip
+sudo pip3 install pyzmq
+```
 
 ### Codigos🔧
 
-_Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener un entorno de desarrollo ejecutandose_
-
-_Dí cómo será ese paso_
-
-```
-Da un ejemplo
-```
-
-_Y repite_
-
-```
-hasta finalizar
-```
-
-_Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
+En esta carpeta se encuentran los codigos utilizados por cada robot, dentro de cada carpeta hay un Readme con la explicación del funcionamiento de los mismos. Esta divido en 2 carpetas con el nombre de cada robot y luego con los lenguajes utilizados, Python, C, Matlab. 
 
 ### Documentos📋
+Dentro de esta carpeta están los trabajos escritos desarrollado en el transcurso del periodo de investigación y realización de este trabajo de graduación. 
 
 ### RaspberryPi⚙️
 
-_Explica como ejecutar las pruebas automatizadas para este sistema_
+En esta carpeta se da una explicación basica de lo necesario para poder iniciar la raspberry y lograr comunicarse con ella, una guía basica de consejos y errores comúnes. 
 
 ### Piezas🔩
 
-_Explica que verifican estas pruebas y por qué_
-
-```
-Da un ejemplo
-```
+En esta carpeta se detallan las piezas utilizadas para el Bytebot3B
 
 
-### Construido🛠️
+## Construido🛠️
 
-_Menciona las herramientas que utilizaste para crear tu proyecto_
+Aquí se hace un resumen de las herramientas utilizadas en todo el proyecto, estas pueden variar a disposición de las siguientes actualizaciones del proyecto. 
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - El framework web usado
-* [Maven](https://maven.apache.org/) - Manejador de dependencias
-* [ROME](https://rometools.github.io/rome/) - Usado para generar RSS
+* [Spyder/Anaconda ](https://www.anaconda.com) - IDE utilizado en windows
+* [Termius](https://termius.com) - Manejador de comunicaciónes
+* [Optitrack](https://optitrack.com) - Sistema de captura de movimiento
+* [ZMQ](https://zeromq.org) - Framework
+* 
+* 
 
