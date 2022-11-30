@@ -2,19 +2,6 @@
 # Documentos
 
 Dentro de esta carpeta se encuentran los documentos importantes vínculados a esta tesis
-```
-Tesis Escrita
-```
-```
-Protocolo
-```
-```
-Imagenes y Videos
-```
-```
-Articulo Cientifico
-```
-
 
 
 ## Tesis Escrita 📋
