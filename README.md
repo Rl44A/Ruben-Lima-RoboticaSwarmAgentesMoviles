@@ -1,9 +1,10 @@
 # Implementación y validación de algoritmos de robótica de enjambre en plataformas móviles en la nueva mesa de pruebas del laboratorio de robótica de la UVG
 
 En este proyecto se realiza la validación del PSO, un algoritmo de robotica de enjambre desarrollado en un trabajo de graduación anterior sobre plataformas moviles para así poder utilizarlas como partículas en simulaciónes. Las plataformas utilizadas son el Bytebot, desarrollado por Julio en otro trabajo de graduación y el Bytebot3B, desarrollado por mi persona utilizando el Bytebot de base. 
-![PSOR](https://user-images.githubusercontent.com/60798417/204688649-a7c98da6-d603-485c-af74-1194e62bd5ff.gif) .................................................       ![PSO3R](https://user-images.githubusercontent.com/60798417/204688883-15da2f24-3364-4508-ad3d-62321fc8ace6.gif)
+  ![PSO3R](https://user-images.githubusercontent.com/60798417/204691058-f3ac82bc-758c-4905-8a67-8861411f2ecc.gif)
+  ![PSOR](https://user-images.githubusercontent.com/60798417/204691072-7660643a-fd45-4aa6-9fa4-e988e068c336.gif)
 
-## Indice
+
 1. [Estructura de Carpetas](#Estructura-de-Carpetas)
 2. [Antecedentes](#Antecedentes)
 3. [Codigo](#Código)
