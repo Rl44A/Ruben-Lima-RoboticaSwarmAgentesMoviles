@@ -5,17 +5,11 @@ En este proyecto se realiza la validación del PSO, un algoritmo de robotica de 
  ![PS3O](https://user-images.githubusercontent.com/60798417/204691414-226293f9-3b90-4dd7-a137-5123ce1b5455.gif)
 
 
-1. [Prerequisitos](#Prerrequisitos)
+1. [Prerequisitos](#Pre-rrequisitos)
 2. [Antecedentes](#Antecedentes)
 3. [Codigo](#Código)
 4. [Documentos](#Documentos)
 5. [Uso Raspberry Pi](#RaspberryPi)
-
-## Comenzando 🚀
-
-_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
-
-Mira **Deployment** para conocer como desplegar el proyecto.
 
 
 ### Pre-requisitos 📋
@@ -26,7 +20,9 @@ _Que cosas necesitas para instalar el software y como instalarlas_
 Da un ejemplo
 ```
 
-### Instalación 🔧
+### Antecedentes📋
+
+### Codigo  🔧
 
 _Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener un entorno de desarrollo ejecutandose_
 
@@ -44,11 +40,13 @@ hasta finalizar
 
 _Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
 
+### Documentos 📋
+
 ## Ejecutando las pruebas ⚙️
 
 _Explica como ejecutar las pruebas automatizadas para este sistema_
 
-### Analice las pruebas end-to-end 🔩
+### RaspberryPi🔩
 
 _Explica que verifican estas pruebas y por qué_
 
@@ -56,17 +54,6 @@ _Explica que verifican estas pruebas y por qué_
 Da un ejemplo
 ```
 
-### Y las pruebas de estilo de codificación ⌨️
-
-_Explica que verifican estas pruebas y por qué_
-
-```
-Da un ejemplo
-```
-
-## Despliegue 📦
-
-_Agrega notas adicionales sobre como hacer deploy_
 
 ## Construido con 🛠️
 
