@@ -8,7 +8,6 @@ En este proyecto se realiza la validación del PSO, un algoritmo de robotica de 
 
 
 
-
 ![PSO3R](https://user-images.githubusercontent.com/60798417/204688883-15da2f24-3364-4508-ad3d-62321fc8ace6.gif)
 
 ## Indice
