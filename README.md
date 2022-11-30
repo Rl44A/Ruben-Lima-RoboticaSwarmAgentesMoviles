@@ -71,6 +71,3 @@ Aquí se hace un resumen de las herramientas utilizadas en todo el proyecto, est
 * [Termius](https://termius.com) - Manejador de comunicaciónes
 * [Optitrack](https://optitrack.com) - Sistema de captura de movimiento
 * [ZMQ](https://zeromq.org) - Framework
-* 
-* 
-
