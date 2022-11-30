@@ -11,7 +11,7 @@ En este proyecto se realiza la validación del PSO, un algoritmo de robotica de 
 4. [Documentos](#Documentos)
 5. [RaspberryPi](#RaspberryPi)
 6. [Piezas](#Piezas)
-7. [Construido](#Construido con)
+7. [Construido](#Construido)
 
 
 ### Pre-rrequisitos📋
@@ -57,7 +57,7 @@ Da un ejemplo
 ```
 
 
-## Construido con🛠️
+## Construido🛠️
 
 _Menciona las herramientas que utilizaste para crear tu proyecto_
 
