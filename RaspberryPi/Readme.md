@@ -24,6 +24,3 @@ gcc nombre_del_archivo.c -o _ejecutable_
 ```
 ### Proceso de encendido correcto
 Los leds de la raspberry
-
-### Configuración actual 
-
