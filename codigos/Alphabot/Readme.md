@@ -37,10 +37,10 @@ Estos codigos estan unidos en cierta manera de apertura, es decir que si no se a
 responder y por lo tanto hay que cambiar de puerto, esto no es motivo de alarma. 
 
 El orden para abrir los programas principales sería este 
-1. Abrimos el servidor en el alphabot
-  - Abrimos sot.c
-   - Abrimos ServidorSocket_Alpha.py y sokkt.py y esperamos el mensaje de conexión entre la raspberry y el Alphabot. 
-     - Abrimos Robotat_Connect_Alpha.py 
+1. Abrimos el servidor en Alphabot
+   - Abrimos sot.c
+     - Abrimos ServidorSocket_Alpha.py y sokkt.py y esperamos el mensaje de conexión entre la raspberry y el Alphabot. 
+       -  Abrimos Robotat_Connect_Alpha.py 
      
 Tomar en cuenta que para este y todos los programas el Robotat debe estar enviando información, ya que sino, no se podra conectar con el receptor y todo su codigo va a dejar de funcionar ya que la información esperada 
 no va a aparecer. 
