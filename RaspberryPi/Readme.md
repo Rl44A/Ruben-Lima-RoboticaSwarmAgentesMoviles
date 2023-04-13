@@ -5,22 +5,3 @@ Para lograr acceder a estas plataformas se necesita guardar la imagen de un arch
 
 Luego de esto, para poder tener una visualización de las Raspberrys dentro de nuestra computadora necesitamos un medio de conexión, se recomienda para esto utilizar Termius, ya que nos permite acceder por medio de SSH asi como tambien visualizar los documentos y pasar documentos de nuestra computadora a cualquier raspberry que este conectada. En el siguiente link se deja un video para la instalación del mismo, luego de la instalación se recomienda vincularlo con la cuenta de Github universitaria para poder obtener todos los beneficios que esta plataforma ofrece a un estudiante.  [Instalación Termius](https://www.youtube.com/watch?v=Mfk1RMeUnNA "Descargar e instalar Termius").
 
-## Guia de Raspberry Pi
-
-Aqui se van a dar algunas guías para el uso correcto de los agentes moviles y la RaspberryPi de estos. 
-
-### Comandos Utiles 
-
-Para compilar algún código desde la terminal
-```sh
-gcc nombre_del_archivo.c -o _ejecutable_
-```
-
-### Errores Comunes 
-
-Si el error mostrado dice 
-```sh
-gcc nombre_del_archivo.c -o _ejecutable_
-```
-### Proceso de encendido correcto
-Los leds de la raspberry
