@@ -15,11 +15,8 @@ Este es el protocolo presentado para obtener la aprobación en el seguimiento de
 
 ## Imagenes y videos 📋
 
-En esta carpeta se presentaran las diferentes fotografias y videos obtenidos en las pruebas realizadas. 
-
-## Articulo Científico📋
-
-Aquí va el articulo cientifico desarrollado para esta tesis. 
+En estas carpetas se presentaran las diferentes fotografias y videos obtenidos en las pruebas realizadas. 
+. 
 
 
 
