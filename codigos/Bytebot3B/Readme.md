@@ -20,13 +20,13 @@ Este programa es el que recibe las coordenadas que manda el servidor 1, para lue
 y este mismo programa las vuelve a transformar y las envía al programa de movimiento. Podemos decir que este es la base del proceso de traslado de información. Este programa esta viculado con **Konectzmq.py** que es en
 donde se hacen las conexiones con el algoritmo de enjambre y con **Movimiento.py** que es en donde se ejecutan las instrucciones para que el robot se pueda mover. 
 
-3. Luego abrimos el programa que ejecuta el algoritmo de robotica de enjambre PSO que recibe las coordenadas actuales y provee unas coordenadas futuras las cuales son enviadas de regreso hacia **Client.py** para que este 
-pueda enviarlas al movimiento y que el Bytebot3B pueda ejecutarlas y hacer el movimiento pedido, este programa es: 
+
+3. Luego abrimos el programa en C  
 ```
 ServidorzmqPSO.c
 
 ```
-
+Este es el que ejecuta el algoritmo de robotica de enjambre PSO que recibe las coordenadas actuales y provee unas coordenadas futuras las cuales son enviadas de regreso hacia **Client.py** para que este pueda enviarlas al movimiento y que el Bytebot3B pueda ejecutarlas y hacer el movimiento pedido. 
 <h2 align="center"> Orden de apertura </h1> 
 
 Estos codigos estan unidos en cierta manera de apertura, es decir que si no se abren en este orden el puerto no detecta información. Puede pasar que aveces el puerto por el que se esta enviando la información deje de 
